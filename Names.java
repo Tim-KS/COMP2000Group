@@ -11,4 +11,5 @@ public class Names {
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
 	}
 }
-system.out.println("Hello")
+System.out.println("Hello");
+
