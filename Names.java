@@ -14,5 +14,8 @@ public class Names {
     public static void PrintThaoSig() {
         System.out.println("Thao Nguyen doesn't like coriander but she loves cat");
     }	
+	public static void printTimSig() {
+		System.out.println("Tim finally got rid of OneDrive so GitHub is behaving");
+	}
 }
 
